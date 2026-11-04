@@ -29,7 +29,7 @@ flutter run          # con emulador o dispositivo Android
 ## Pruebas realizadas
 
 ```text
-dart format .     -> Formatted 15 files (0 changed)
+dart format .     -> Formatted 17 files (0 changed)
 flutter analyze   -> No issues found!
 flutter test      -> All tests passed! (18)
 ```

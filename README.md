@@ -164,27 +164,26 @@ Las capturas y la guía de demostración están en
 
 ## Entrega en GitHub
 
-- Rama de la práctica: `practica-06-persistencia`.
-- La rama parte de `develop` actualizado.
+- Repositorio: <https://github.com/AngelAndreiLeonAguilar/practica-06-persistencia->
+- Rama de la práctica: `practica-06-persistencia` (parte de `develop`).
+- Pull request: <https://github.com/AngelAndreiLeonAguilar/practica-06-persistencia-/pull/1>
+- Commit de la entrega: <https://github.com/AngelAndreiLeonAguilar/practica-06-persistencia-/commit/c863781>
 - No se versionan `.dart_tool`, `build`, credenciales, llaves ni archivos generados.
 
-Comandos de entrega:
+El texto completo de la pull request está en
+[`docs/pull-request-practica-06.md`](docs/pull-request-practica-06.md).
+
+Comandos utilizados para publicar la entrega:
 
 ```bash
-git checkout develop
-git pull origin develop
-git checkout -b practica-06-persistencia
-dart format .
-flutter analyze
-flutter test
-git add .
-git commit -m "feat: completa practica 06"
+git remote add origin https://github.com/AngelAndreiLeonAguilar/practica-06-persistencia-.git
+git push -u origin develop
 git push -u origin practica-06-persistencia
 ```
 
-Después del push se abre una pull request hacia `develop` con propósito, funciones
-agregadas, pasos para ejecutar, pruebas realizadas, capturas y problemas pendientes
-(ver [`docs/pull-request-practica-06.md`](docs/pull-request-practica-06.md)).
+La pull request se abrió desde `practica-06-persistencia` hacia `develop` con
+propósito, funciones agregadas, pasos para ejecutar, pruebas realizadas, capturas
+y problemas pendientes.
 
 ## Participantes
 
