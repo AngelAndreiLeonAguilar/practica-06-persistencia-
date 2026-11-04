@@ -154,6 +154,9 @@ flutter drive \
   -d emulator-5554
 ```
 
+La corrida de verificación terminó con `All tests passed!` y genera las capturas
+de `docs/evidencias/practica-06/` mediante el driver.
+
 ## Evidencias
 
 Las capturas y la guía de demostración están en
@@ -185,10 +188,7 @@ agregadas, pasos para ejecutar, pruebas realizadas, capturas y problemas pendien
 
 ## Participantes
 
-- _Nombre completo del integrante 1_
-- _Nombre completo del integrante 2_
-
-> Sustituye estas líneas por los nombres del equipo antes de declarar el commit final.
+- Angel Andrei Leon Aguilar
 
 ## Referencias
 

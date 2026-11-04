@@ -35,11 +35,11 @@ La prueba recorre el alta, edición, filtros, eliminación y notas, y guarda las
 capturas en `docs/evidencias/practica-06/` (01-inicio, 02-formulario, 03-tareas,
 04-filtro-pendientes, 05-completadas, 06-eliminar y 08-notas).
 
-> Nota: al finalizar, la corrida de integración puede reportar la advertencia
-> `A SemanticsHandle was active at the end of the test` al cerrar la prueba. Es un
-> aviso del entorno de pruebas en vivo; las capturas y el flujo de la app se
-> generan correctamente. Las pruebas automatizadas de `flutter test` son las que
-> se usan como resultado oficial (18/18).
+La corrida de verificación del 2026-11-04 finalizó con `All tests passed!` en 25 s.
+En algunas ejecuciones el entorno puede mostrar además el aviso
+`A SemanticsHandle was active at the end of the test`; no impide la generación de
+capturas ni afecta al resultado de `flutter test`, que es el que se toma como
+oficial (18/18).
 
 
 Pruebas incluidas:
