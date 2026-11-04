@@ -48,8 +48,9 @@ flutter devices
 ## Instalación
 
 ```bash
-git clone <URL-del-repositorio>
-cd practica-06-persistencia
+git clone https://github.com/AngelAndreiLeonAguilar/practica-06-persistencia-.git
+cd practica-06-persistencia-
+git checkout practica-06-persistencia
 flutter pub get
 ```
 
