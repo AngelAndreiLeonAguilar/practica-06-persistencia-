@@ -168,7 +168,8 @@ Las capturas y la guía de demostración están en
 - Repositorio: <https://github.com/AngelAndreiLeonAguilar/practica-06-persistencia->
 - Rama de la práctica: `practica-06-persistencia` (parte de `develop`).
 - Pull request: <https://github.com/AngelAndreiLeonAguilar/practica-06-persistencia-/pull/1>
-- Commit de la entrega: <https://github.com/AngelAndreiLeonAguilar/practica-06-persistencia-/commit/c863781>
+- Commit principal de la práctica: <https://github.com/AngelAndreiLeonAguilar/practica-06-persistencia-/commit/8213ef1>
+- Historial de la rama: <https://github.com/AngelAndreiLeonAguilar/practica-06-persistencia-/commits/practica-06-persistencia>
 - No se versionan `.dart_tool`, `build`, credenciales, llaves ni archivos generados.
 
 El texto completo de la pull request está en
